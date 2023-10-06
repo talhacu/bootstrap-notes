@@ -1,0 +1,42 @@
+.btn-success {
+    background-color: red;
+}
+
+.card-img-top{
+    margin-top: 40px;
+}
+
+.carousel{
+    width: 900px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.accordion{
+    margin-top: 400px;
+}
+
+.accordion-button {
+
+    font-style: italic ;
+    font-size: large;
+}
+
+.accordion-body{
+    font-size: medium;
+}
+
+.tala{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+  }
+
+  p{
+    border: 1px solid black;
+
+  }

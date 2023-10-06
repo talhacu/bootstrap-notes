@@ -1,0 +1,11 @@
+.logo{
+    display: grid;
+    place-items: center;
+    margin-top: 50px;
+}
+
+.girisyap{
+
+    margin-left: 150px;
+    margin-right: 150px;
+}
